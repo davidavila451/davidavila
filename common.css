@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+	
+body{
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: black;
+	background-image: linear-gradient(black, grey);
+}
+
+p {
+	color: white;
+	font-weight: 300;
+	font-family: 'Pacifico', cursive;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	size: 64px;
+	letter-spacing: 2px;
+	font-weight: 600;
+	font-family: 'Pacifico', cursive;
+}
+
+footer{
+	margin-top: auto;
+}
